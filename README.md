@@ -7,7 +7,7 @@
 <?php
 $APPLICATION->IncludeComponent(
   'bitrix:breadcrumb',
-  '',
+  '.default',
   [
     'START_FROM' => '0', 
     'PATH' => '', 
